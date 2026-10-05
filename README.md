@@ -1,9 +1,10 @@
-[![npm](https://img.shields.io/npm/v/@cyanmycelium/mcp-vault)](https://www.npmjs.com/package/@cyanmycelium/mcp-vault)
+[![npm](https://img.shields.io/npm/v/@cyanmycelium/mcp-vault)](https://www.npmjs.com/package/@cyanmycelium/mcp-vault) [![mcp-broker: 1.6.1](docs/assets/mcp-broker-badge.svg)](https://github.com/pandaGaume/mcp-broker)
 [![CI](https://github.com/pandaGaume/mcp-vault/actions/workflows/ci.yml/badge.svg)](https://github.com/pandaGaume/mcp-vault/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pandaGaume/mcp-vault/main/docs/assets/logo.png" alt="mcp-vault logo: the network-discovery panda holding a bitten bao, a padlock glowing on its chest" width="180">
+  <img src="docs/assets/mcp-broker-family.png" alt="MCP Broker Family" width="64" height="64" />
 </p>
 
 # mcp-vault
